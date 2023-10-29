@@ -1,5 +1,4 @@
 // Player class representing a player
-// allegedly
 class Player {
     constructor(name) {
         this.name = name;

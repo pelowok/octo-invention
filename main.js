@@ -1,4 +1,4 @@
-const Game = require('./game');
+const Game = require('./game.js');
 const Player = require('./player');
 const Card = require('./card');
 const Hand = require('./hand');
