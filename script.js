@@ -1,3 +1,23 @@
+
+// Require/import the Game class from the game.js file
+const Game = require('./game');
+
+// Create game and players
+const game = new Game();
+const player1 = new Player("Player 1");
+const player2 = new Player("Player 2");
+const player3 = new Player("Player 3");
+
+// Add players to the game
+game.addPlayer(player1);
+game.addPlayer(player2);
+game.addPlayer(player3);
+
+// When the "Start Heist" button is clicked or triggered
+game.startHeist();
+
+
+
 document.getElementById('startGame').addEventListener('click', function() {
   document.getElementById('gameStatus').innerText = 'Heist in Progress';
   // Logic to initiate the game or display game board
