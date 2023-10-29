@@ -1,5 +1,5 @@
 // Collection representing each player's hand of cards
-class Hand {
+export default class Hand {
   constructor() {
       this.cards = []; // Array to hold the player's cards
   }
@@ -24,4 +24,4 @@ class Hand {
   // Additional methods for managing the player's hand of cards can be added here
 }
 
-module.exports = Hand;
+

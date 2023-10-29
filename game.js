@@ -1,4 +1,6 @@
 
+import Card from './card';
+
 // Game class to manage the game environment and actions
 class Game {
     constructor() {
@@ -42,4 +44,4 @@ class Game {
     // Other methods/stubs for game actions
 }
 
-module.exports = Game;
+export default Game;

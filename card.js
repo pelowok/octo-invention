@@ -1,5 +1,5 @@
 // Card class representing a slotted container for elements
-class Card {
+export default class Card {
   constructor() {
       this.elements = []; // Array to hold elements in the card
   }
@@ -11,4 +11,4 @@ class Card {
   // Additional methods for removing, accessing, or manipulating elements can be added here
 }
 
-module.exports = Card;
+

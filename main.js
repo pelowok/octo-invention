@@ -1,3 +1,6 @@
+import Game from './game';
+import Player from './player';
+
 const Game = require('./game');
 const Player = require('./player');
 const Card = require('./card');
