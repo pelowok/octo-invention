@@ -1,4 +1,3 @@
-const Card = require('./card');
 
 // Game class to manage the game environment and actions
 class Game {
