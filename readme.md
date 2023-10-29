@@ -29,3 +29,12 @@ Alarm Level: Once the alarm is activated, an alarm level rises, signaling increa
 Player Responses: Players must quickly adapt their strategy to mitigate the consequences of the alarm. They might have to hide, move quickly to complete their objectives before more security arrives, or find ways to deactivate the alarm system.
 
 This mechanic would add tension and consequence to the game, forcing players to carefully plan and execute their moves while considering the potential risks and outcomes of incapacitating NPCs during the heist.
+
+Card Passing:
+
+Each player starts with a hand that includes blank cards and other game-specific cards.
+During each turn, players pass one card to every other player. This can be done discreetly, either simultaneously or in a predetermined order.
+Gaining Blank Cards:
+
+Players can discreetly gain new blank cards at the start of their turn.
+To maintain secrecy about the number of blank cards obtained, a blind draw mechanic can be used. For example, they might draw cards from a deck without revealing the number of blank cards drawn.

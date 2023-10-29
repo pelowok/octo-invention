@@ -15,6 +15,10 @@
         <button id="completeObjective" role="button" aria-labelledby="mainHeading">Complete Objective</button>
         <p>Alarm Level: <span id="alarmLevel" aria-live="polite">0</span></p>
         <p>Status: <span id="gameStatus" aria-live="polite">Game Not Started</span></p>
+        <div class="alarmControls" role="group" aria-labelledby="mainHeading">
+            <button id="decrementAlarm" aria-controls="alarmLevel">Decrement Alarm</button>
+            <input type="range" id="alarmSlider" min="0" max="10" value="0" aria-labelledby="mainHeading" aria-controls="alarmLevel">
+        </div>
     </div>
 
     <script src="script.js"></script>
