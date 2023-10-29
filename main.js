@@ -1,7 +1,7 @@
 const Game = require('./game.js');
-const Player = require('./player');
-const Card = require('./card');
-const Hand = require('./hand');
+const Player = require('./player.js');
+const Card = require('./card.js');
+const Hand = require('./hand.js');
 
 // Create game and players
 const game = new Game();
