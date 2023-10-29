@@ -1,0 +1,20 @@
+{
+  "name": "octo-invention",
+  "version": "1.0.0",
+  "description": "In 'Mastermind Heist,' players lead a team of skilled individuals on a mission to pull off a daring high-stakes heist. Each team member has unique abilities crucial for the success of the operation. The goal is to plan and execute the heist while outsmarting security measures and rival groups.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelowok/octo-invention.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelowok/octo-invention/issues"
+  },
+  "homepage": "https://github.com/pelowok/octo-invention#readme"
+}

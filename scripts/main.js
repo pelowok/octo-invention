@@ -1,9 +1,9 @@
 import { Player } from 'Player.js';
-import { Team } from './Team.js';
-import { GameBoard } from './GameBoard.js';
-import { Communication } from './Communication.js';
-import { Actions } from './Actions.js';
-import { NPC } from './NPC.js';
+import { Team } from 'Team.js';
+import { GameBoard } from 'GameBoard.js';
+import { Communication } from 'Communication.js';
+import { Actions } from 'Actions.js';
+import { NPC } from 'NPC.js';
 
 // Instantiate necessary classes
 const team = new Team();
