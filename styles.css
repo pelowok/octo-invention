@@ -8,4 +8,6 @@ body {
 .game-container {
   /* Define styling for your game content */
   /* For example: width, height, background, etc. */
+  color: white;
+  background-color: rgba(black);
 }
